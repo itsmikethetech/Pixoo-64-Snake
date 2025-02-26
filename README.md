@@ -1,6 +1,8 @@
 # Pixoo 64 Snake Game
 
-<img src="https://github.com/user-attachments/assets/fcca8438-1d1e-4122-b038-c3ecb5fd2978" width="49%"></img><img src="https://github.com/user-attachments/assets/084c4020-9a61-4954-9927-a7b24fad0c00" width="49%"></img>
+### [You can purchase a Pixoo 64 from Divoom here.](https://collabs.shop/1eue7d)
+
+[<img src="https://github.com/user-attachments/assets/fcca8438-1d1e-4122-b038-c3ecb5fd2978" width="49%"></img><img src="https://github.com/user-attachments/assets/084c4020-9a61-4954-9927-a7b24fad0c00" width="49%"></img>](https://collabs.shop/1eue7d)
 
 Pixoo Snake is a classic snake game designed for the Divoom Pixoo device. It features real-time rendering, adjustable difficulty, and a graphical user interface built using Tkinter.
 
